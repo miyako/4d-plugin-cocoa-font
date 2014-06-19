@@ -1,0 +1,168 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeExecutable = D105D0E815498A2300A1DBB9 /* 実行可能ファイル */;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* Cocoa Font */;
+		codeSenseManager = D105D0D4154949C500A1DBB9 /* Code sense */;
+		executables = (
+			D105D0E815498A2300A1DBB9 /* 実行可能ファイル */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 407069857;
+			PBXWorkspaceStateSaveDate = 407069857;
+		};
+		sourceControlManager = D105D0D3154949C500A1DBB9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {818, 611}}";
+			sepNavSelRange = "{71, 0}";
+			sepNavVisRange = "{0, 184}";
+			sepNavWindowFrame = "{{61, 92}, {877, 739}}";
+		};
+	};
+	18B684FE06944F8800CC6A1E /* 4DPlugin.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 4459}}";
+			sepNavSelRange = "{4377, 6}";
+			sepNavVisRange = "{3538, 1326}";
+			sepNavWindowFrame = "{{241, 107}, {877, 739}}";
+		};
+	};
+	8D01CCC60486CAD60068D4B7 /* Cocoa Font */ = {
+		activeExec = 0;
+	};
+	8D01CCD10486CAD60068D4B7 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{84, 71}, {877, 739}}";
+		};
+	};
+	D105D0D3154949C500A1DBB9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D105D0D4154949C500A1DBB9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D105D0E815498A2300A1DBB9 /* 実行可能ファイル */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "ランナーを有効にする";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = D105D0E915498A2300A1DBB9 /* 4D.app */;
+		libgmallocEnabled = 0;
+		name = "実行可能ファイル";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D105D0E915498A2300A1DBB9 /* 4D.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = 4D.app;
+		path = "/Applications/4D v12/12.3.5/4D.app";
+		sourceTree = "<absolute>";
+	};
+}
