@@ -3,28 +3,12 @@
 
 Get information about fonts on Mac.
 
-##Platform
+### Platform
 
 | carbon | cocoa | win32 | win64 |
 |:------:|:-----:|:---------:|:---------:|
-|🆗|🆗|🚫|🚫|
+|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|||
 
-Commands
----
+### Version
 
-```c
-// --- Font List
-FONT_GET_FAMILY_NAMES
-FONT_GET_NAMES
-FONT_GET_FAMILY_MEMBER_NAMES
-FONT_GET_DISPLAY_NAMES
-
-// --- Font Traits
-FONT_GET_INFORMATION
-FONT_Get_traits
-FONT_Get_weight
-
-// --- Localization
-FONT_Get_display_name
-FONT_Get_localized_name
-```
+<img src="https://cloud.githubusercontent.com/assets/1725068/18940649/21945000-8645-11e6-86ed-4a0f800e5a73.png" width="32" height="32" /> <img src="https://cloud.githubusercontent.com/assets/1725068/18940648/2192ddba-8645-11e6-864d-6d5692d55717.png" width="32" height="32" />
